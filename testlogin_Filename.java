@@ -1,8 +1,8 @@
 package testnew;
 
-import java.util.NoSuchElementException;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
 import utils1.CaptureScreenShot;
